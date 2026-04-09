@@ -1,6 +1,0 @@
-Name: Rohith Sanagapalli
-Resume
-
-I know Python and I am learning pandas for data analysis.
-I use Excel for basic calculations and tables.
-I am interested in machine learning and statistics.

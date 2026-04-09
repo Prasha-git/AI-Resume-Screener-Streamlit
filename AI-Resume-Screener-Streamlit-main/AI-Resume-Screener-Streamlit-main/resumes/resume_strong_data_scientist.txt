@@ -1,9 +1,0 @@
-Name: Ananya Patel
-Role: Data Scientist
-
-Skills:
-- Strong experience in Python and pandas for data analysis.
-- Used NumPy, Matplotlib, and Seaborn for visualization.
-- Built machine learning models for classification and regression.
-- Worked with Excel for reporting and pivot tables.
-- Used SQL for database queries and data extraction.
