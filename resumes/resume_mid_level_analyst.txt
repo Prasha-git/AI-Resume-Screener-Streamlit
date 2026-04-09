@@ -1,0 +1,9 @@
+Name: Rohit Sharma
+Role: Data Analyst
+
+Skills:
+- Experience in Excel and Python for basic analysis.
+- Used pandas to clean and analyze customer data.
+- Created simple dashboards and charts.
+- Worked with SQL occasionally.
+- Developed basic automation scripts in Python.

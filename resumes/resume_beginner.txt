@@ -1,0 +1,8 @@
+Name: Neha Gupta
+Role: Beginner
+
+Skills:
+- Basic knowledge of Python.
+- Learning data analysis concepts.
+- Used Excel for simple calculations.
+- Read tutorials on pandas and NumPy.

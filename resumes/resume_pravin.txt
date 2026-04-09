@@ -1,0 +1,6 @@
+Pravin Choubey
+Resume
+
+I have experience in Python and data analysis using pandas and Excel.
+I built a stock dashboard using Plotly and Dash.
+I am good at problem solving and learning new things.
