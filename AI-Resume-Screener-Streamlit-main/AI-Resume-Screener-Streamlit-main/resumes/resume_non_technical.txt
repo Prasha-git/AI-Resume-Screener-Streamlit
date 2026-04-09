@@ -1,0 +1,8 @@
+Name: Karan Singh
+Role: Sales
+
+Skills:
+- Strong communication and team management.
+- Customer relationship handling.
+- Basic computer skills and internet usage.
+- Microsoft Office for reports and presentations.
