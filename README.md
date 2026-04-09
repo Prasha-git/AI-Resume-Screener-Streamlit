@@ -6,10 +6,11 @@ AI-based resume screening web app using Streamlit to analyze and filter candidat
 
 🚀 Features
 
-- User-friendly interface
-- Real-time resume generation
-- Dynamic input-based customization
-- Clean and structured resume format
+- Upload and analyze resumes
+- Candidates filtering based on criteria 
+- Categorization (Selected / Rejected candidates)
+- Fast and automated screening process
+- Interactive UI using Streamlit
 
 🛠️ Tech Stack
 
@@ -17,11 +18,16 @@ AI-based resume screening web app using Streamlit to analyze and filter candidat
 - Streamlit
 - Pandas
 
-📂 Project Structure
+📂 Project Structure  
 
-ai-resume-builder/
+ai-resume-screener/
+│── data/
+│   │── failed_candidates/
+│   │── past_candidates/
+│   │── resumes/
+│
 │── app.py
-│── requirements.txt
+│── screener.py
 │── README.md
 
 ▶️ How to Run
@@ -32,7 +38,7 @@ git clone https://github.com/Prasha-git/ai-resume-builder-streamlit.git
 
 2. Navigate to the project folder
 
-cd ai-resume-builder-streamlit
+cd ai-resume-screener-streamlit
 
 3. Install dependencies
 
@@ -42,11 +48,20 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+5. Upload resumes through the interface and view screening results
+ 
+6. Ensure required folders (resumes, failed_candidates, passed_candidates, etc.) are present before running
+
+📊 Output  
+- Automatically classifies resumes into categories  
+- Helps identify suitable candidates quickly
+
 📌 Future Improvements
 
-- Download resume as PDF
-- Multiple templates
-- AI-based suggestions
+- AI based resume scoring system
+- Keyword-based matching
+- Integration with job descriptions
+- Deployment as a web app
 
 👨‍💻 Author
 
