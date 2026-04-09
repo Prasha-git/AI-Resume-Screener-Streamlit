@@ -1,8 +1,8 @@
-# AI-Resume-Builder-Streamlit
+# AI-Resume-Screener-Streamlit
 
 Overview
 
-AI-powered resume builder web app using Streamlit that generates customizable resumes with a user-friendly interface.
+AI-based resume screening web app using Streamlit to analyze and filter candidate resumes.
 
 🚀 Features
 
